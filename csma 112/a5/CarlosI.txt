@@ -1,0 +1,1 @@
+My arduino stopped working so I used the mouse simulation you provided us to complete the project. I have also included images of the wiring to show I knew how to hook everything up.
