@@ -1,0 +1,3 @@
+My project uses data from a CSV on the first 300 Steam Games. It sorts the games by Free-to-Play and Paid, then further sorts them by genre. I used multiple
+scenes to differenciate between the data being shown to add clarity to what your seeing. I have on screen instructions on what to do to view the different scenes. 
+Unfortunatley, I was unable to get the ellipses to properly relate to the data.
